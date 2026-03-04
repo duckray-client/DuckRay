@@ -24,7 +24,7 @@
 ### 📥 Direct Download
 - **[Android](https://github.com/duckray-client/DuckRay/releases/latest/download/DuckRay.apk)**
 - **[Windows](https://github.com/duckray-client/DuckRay/releases/latest/download/DuckRay_Setup.exe)**
-- **macOS (coming soon)**
+- **[macOS](https://github.com/duckray-client/DuckRay/releases/latest/download/DuckRay_macOS.app.zip)**
 
 # Acknowledgements
 Special thanks to the creators and maintainers of the following projects. Their robust tools and innovations greatly empowered the development of this app.
